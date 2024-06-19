@@ -5,11 +5,11 @@
   <p align="center">
     Flexi Text Effects that apply customizable effect to TMP_Text.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="">Soon</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="">Soon</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="">Soon</a>
   </p>
 </div>
 
