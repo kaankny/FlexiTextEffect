@@ -14,3 +14,8 @@
 </div>
 
 ![](https://github.com/kaankny/FlexiTextEffect/blob/main/image/1.gif)
+![](https://github.com/kaankny/FlexiTextEffect/blob/main/image/4.png)
+![](https://github.com/kaankny/FlexiTextEffect/blob/main/image/2.png)
+![](https://github.com/kaankny/FlexiTextEffect/blob/main/image/3.png)
+![](https://github.com/kaankny/FlexiTextEffect/blob/main/image/5.png)
+
